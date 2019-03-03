@@ -1,2 +1,2 @@
-# HelloWorld
-A hello world program
+A Hello World Project
+======================================
